@@ -1,0 +1,258 @@
+t   t   t   e   e   n
+s   l   n   w   w   s
+            s   l    
+Test Case:           0
+            sg                           3000
+                                        13000
+                                        23000
+Test Case:           1
+    el                                  33000
+es  el          lg                      43000
+es              lg                      53000
+es              lg                      63000
+es              lg                      73000
+es              lg                      83000
+es              lg                      93000
+es              ly                     103000
+es              ly                     113000
+es                                     123000
+es          sg                         133000
+es          sg                         143000
+            sg                         153000
+            sg                         163000
+            sg                         173000
+            sg                         183000
+            sg                         193000
+            sy                         203000
+            sy                         213000
+                                       223000
+                                       233000
+                                       243000
+                                       253000
+                                       263000
+                                       273000
+                                       283000
+                                       293000
+                                       303000
+                                       313000
+                                       323000
+                                       333000
+                                       343000
+Test Case:           2
+        ns                             353000
+        ns          ng                 363000
+        ns          ng                 373000
+        ns          ng                 383000
+                    ng                 393000
+                    ng                 403000
+                    ng                 413000
+                    ng                 423000
+                    ng                 433000
+                    ny                 443000
+                    ny                 453000
+                                       463000
+                                       473000
+                                       483000
+                                       493000
+                                       503000
+                                       513000
+                                       523000
+                                       533000
+                                       543000
+                                       553000
+                                       563000
+                                       573000
+                                       583000
+Test Case:           3
+        ns                             593000
+        ns          ng                 603000
+        ns          ng                 613000
+        ns          ng                 623000
+        ns          ng                 633000
+        ns          ng                 643000
+        ns          ng                 653000
+        ns          ng                 663000
+        ns          ng                 673000
+        ns          ng                 683000
+    el  ns          ng                 693000
+    el  ns          ng                 703000
+    el  ns          ng                 713000
+    el  ns          ng                 723000
+    el  ns          ng                 733000
+    el  ns          ng                 743000
+    el  ns          ng                 753000
+    el  ns          ng                 763000
+    el  ns          ng                 773000
+    el  ns          ng                 783000
+    el  ns          ny                 793000
+    el  ns          ny                 803000
+    el  ns                             813000
+    el  ns      lg                     823000
+    el  ns      lg                     833000
+    el  ns      lg                     843000
+    el  ns      lg                     853000
+    el  ns      lg                     863000
+    el  ns      lg                     873000
+    el  ns      lg                     883000
+    el          lg                     893000
+                lg                     903000
+                lg                     913000
+                ly                     923000
+                ly                     933000
+                                       943000
+                                       953000
+                                       963000
+                                       973000
+                                       983000
+                                       993000
+                                      1003000
+                                      1013000
+                                      1023000
+                                      1033000
+                                      1043000
+                                      1053000
+                                      1063000
+                                      1073000
+                                      1083000
+                                      1093000
+Test Case:           4
+es  el  ns                            1103000
+es  el  ns          ng                1113000
+es  el  ns          ng                1123000
+es  el  ns          ng                1133000
+es  el  ns          ng                1143000
+es  el  ns          ng                1153000
+es  el  ns          ng                1163000
+es  el  ns          ng                1173000
+es  el  ns          ng                1183000
+es  el  ns          ng                1193000
+es  el  ns          ng                1203000
+es  el  ns          ny                1213000
+es  el  ns          ny                1223000
+es  el  ns                            1233000
+es  el  ns  sg                        1243000
+es  el  ns  sg                        1253000
+es  el  ns  sg                        1263000
+es  el  ns  sg                        1273000
+es  el  ns  sg                        1283000
+es  el  ns  sg                        1293000
+es  el  ns  sg                        1303000
+es  el  ns  sg                        1313000
+es  el  ns  sg                        1323000
+es  el  ns  sg                        1333000
+es  el  ns  sy                        1343000
+es  el  ns  sy                        1353000
+es  el  ns                            1363000
+es  el  ns      lg                    1373000
+es  el  ns      lg                    1383000
+es  el  ns      lg                    1393000
+es  el  ns      lg                    1403000
+es  el  ns      lg                    1413000
+es  el  ns      lg                    1423000
+es  el  ns      lg                    1433000
+es  el  ns      lg                    1443000
+es  el  ns      lg                    1453000
+es  el  ns      lg                    1463000
+es  el  ns      ly                    1473000
+es  el  ns      ly                    1483000
+es  el  ns                            1493000
+es  el  ns          ng                1503000
+es  el  ns          ng                1513000
+es  el  ns          ng                1523000
+es  el  ns          ng                1533000
+es  el  ns          ng                1543000
+es  el  ns          ng                1553000
+es  el  ns          ng                1563000
+es  el  ns          ng                1573000
+es  el  ns          ng                1583000
+es  el  ns          ng                1593000
+es  el  ns          ny                1603000
+es  el  ns          ny                1613000
+es  el  ns                            1623000
+es  el  ns  sg                        1633000
+es  el  ns  sg                        1643000
+es  el  ns  sg                        1653000
+es  el  ns  sg                        1663000
+es  el  ns  sg                        1673000
+es  el  ns  sg                        1683000
+es  el  ns  sg                        1693000
+es  el  ns  sg                        1703000
+es  el  ns  sg                        1713000
+es  el  ns  sg                        1723000
+es  el  ns  sy                        1733000
+es  el  ns  sy                        1743000
+es  el  ns                            1753000
+es  el  ns      lg                    1763000
+es  el  ns      lg                    1773000
+es  el  ns      lg                    1783000
+es  el  ns      lg                    1793000
+es  el  ns      lg                    1803000
+es  el  ns      lg                    1813000
+es  el  ns      lg                    1823000
+es  el  ns      lg                    1833000
+es  el  ns      lg                    1843000
+es  el  ns      lg                    1853000
+es  el  ns      ly                    1863000
+es  el  ns      ly                    1873000
+es  el  ns                            1883000
+es  el  ns          ng                1893000
+es  el  ns          ng                1903000
+es  el  ns          ng                1913000
+es  el  ns          ng                1923000
+es  el  ns          ng                1933000
+es  el  ns          ng                1943000
+es  el  ns          ng                1953000
+es  el  ns          ng                1963000
+es  el  ns          ng                1973000
+es  el  ns          ng                1983000
+es  el  ns          ny                1993000
+es  el  ns          ny                2003000
+es  el  ns                            2013000
+es  el  ns  sg                        2023000
+es  el  ns  sg                        2033000
+es  el  ns  sg                        2043000
+es  el  ns  sg                        2053000
+es  el  ns  sg                        2063000
+es  el  ns  sg                        2073000
+es  el  ns  sg                        2083000
+es  el  ns  sg                        2093000
+es      ns  sg                        2103000
+es      ns  sg                        2113000
+es      ns  sy                        2123000
+es      ns  sy                        2133000
+es      ns                            2143000
+es      ns          ng                2153000
+es      ns          ng                2163000
+es      ns          ng                2173000
+es      ns          ng                2183000
+es      ns          ng                2193000
+es      ns          ng                2203000
+es      ns          ng                2213000
+es      ns          ng                2223000
+es      ns          ng                2233000
+es      ns          ng                2243000
+es      ns          ny                2253000
+es      ns          ny                2263000
+es      ns                            2273000
+es      ns  sg                        2283000
+es      ns  sg                        2293000
+            sg                        2303000
+            sg                        2313000
+            sg                        2323000
+            sg                        2333000
+            sg                        2343000
+            sy                        2353000
+            sy                        2363000
+                                      2373000
+                                      2383000
+                                      2393000
+                                      2403000
+                                      2413000
+                                      2423000
+                                      2433000
+                                      2443000
+                                      2453000
+                                      2463000
+                                      2473000
+                                      2483000
+                                      2493000
