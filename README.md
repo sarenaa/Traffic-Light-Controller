@@ -1,5 +1,6 @@
 # Traffic-Light-Controller
-Hardware simulation of traffic light control (4 way intersection). Traffic light state is mainly controlled in traffic_light_controller1.sv Full implementation and testing details:
+Hardware simulation of traffic light control (4 way intersection). Traffic light state is mainly controlled in traffic_light_controller1.sv.
+Full implementation and testing details:
 r-red g-green y-yellow
 ![image](https://github.com/user-attachments/assets/a471dd52-f9d8-4139-ab8e-da00684308df)
 ![image](https://github.com/user-attachments/assets/7008ca50-b481-42e7-bc00-df6aa4b792a4)
